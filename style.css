@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&family=Source+Code+Pro:wght@300&display=swap');
+
+:root {
+    --light-green: #b0d7a0;
+    --light-grey: #cecece;
+    --light-yellow: #d3a548;
+    --grey-blue: #252733;
+    --dark-grey-blue: #13151f;
+    --dark-background-color: linear-gradient(27deg, rgba(7,9,51,1) 8%, rgba(22,17,37,1) 49%, rgba(27,16,7,1) 93%);
+    --font-family: 'Roboto Mono', monospace;
+    --font-family-secundary: 'Source Code Pro', monospace;
+}
+
+
